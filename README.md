@@ -7,4 +7,4 @@ Web scraping to SQL .ipynb is easy to try for beginners with small data to scrap
 
 week 9- web scraping sqlite.ipynb is where table data from wikipedia is scraped and stored in sqlite database
 
-sql web scraping table-2 Species.ipynb is just another example for scarping and storing
+sql web scraping table-2 Species.ipynb is just another example for scraping and storing
